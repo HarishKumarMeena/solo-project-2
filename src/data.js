@@ -1,4 +1,4 @@
-export default [
+const data = [
     {
         id: 1,
         title: "Mount Fuji",
@@ -38,3 +38,5 @@ export default [
         imageAlt: "Geirangerfjord",
     }
 ]
+
+export default data;
